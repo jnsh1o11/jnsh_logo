@@ -1,2 +1,2 @@
-# jnsh_logo
+# logo_dizayn
 Logo , web dizayn , 
